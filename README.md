@@ -9,4 +9,4 @@
 
 • 👯 I'm actively looking for a Front End position, but am also open to anything
 
-• 📫 hugolopez.me
+• 📫 
