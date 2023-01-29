@@ -8,3 +8,5 @@
 • 👯 I'm actively looking for a Front End position, but am also open to other options
 
 • 📫 portfolio: hugolopez.me/
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
