@@ -7,6 +7,6 @@
 
 • 🔭 currently learning <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" /> & <img height=20 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
-• 🌱 based in Amsterdam, NL.
+• 🌱 based in Paris, FRA & Amsterdam, NL.
 
-• 📫 portfolio: hugolopez.me/
+• 📫 portfolio: hugo-lopez.vercel.app/
