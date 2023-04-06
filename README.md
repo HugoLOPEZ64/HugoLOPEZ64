@@ -9,4 +9,4 @@
 
 • 🌱 based in Paris, FRA & Amsterdam, NL.
 
-• 📫 portfolio: hugo-lopez.vercel.app/
+• 📫 portfolio: hugolopez.me/
